@@ -1,0 +1,4 @@
+vendor_action,action
+Allow,allowed
+Block,blocked
+Sinkhole,blocked
