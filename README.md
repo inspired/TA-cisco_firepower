@@ -3,6 +3,8 @@
 
 ## CIM compliant Cisco Firepower TA for Splunk
 
+This is an alternative to the [Cisco eStreamer eNcore Add-on for Splunk](https://splunkbase.splunk.com/app/3662/)
+
 ### CIM models
 * Network Traffic
 * Web
